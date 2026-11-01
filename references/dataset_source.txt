@@ -1,0 +1,16 @@
+Dataset Name: Online Retail
+
+Dataset Source: UCI Machine Learning Repository
+
+Official Dataset URL:
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+Original File Name: Online Retail.xlsx
+
+Dataset Description:
+This dataset contains transactional records of an online retail business. It includes invoice numbers, product codes, product descriptions, quantities, invoice dates, unit prices, customer IDs, and country information.
+
+Dataset Size: 541,909 records and 8 columns.
+
+Purpose:
+The dataset is used in this project to demonstrate data collection, cleaning, duplicate removal, missing value handling, outlier detection, and normalization for logistics-oriented data analysis.
